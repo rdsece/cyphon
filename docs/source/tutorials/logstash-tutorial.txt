@@ -6,7 +6,7 @@ Generating Alerts from Logstash
 
 .. note::
 
-    If you'd like to run through this tutorial more quickly, be sure you've loaded Cyohon's :ref:`starter settings <load-settings>` before you begin. These settings provide many of the configurations used in this tutorial.
+    If you'd like to run through this tutorial more quickly, be sure you've loaded Cyphon's :ref:`starter settings <load-settings>` before you begin. These settings provide many of the configurations used in this tutorial.
 
 ************
 Introduction
